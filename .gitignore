@@ -5,6 +5,8 @@
 */node_modules
 
 # dependencies
+*/build
+*/*.lock
 
 /1week
 /2week

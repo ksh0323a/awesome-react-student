@@ -30,7 +30,7 @@ export const changeKeyword = (keyword) => ({
 	keyword
 })
 
-const token = 'AIzaSyAsNDtwveKzPT0SWzREwuBpmswH18CIffg'
+const token = 'AIzaSyA2oEpIi9JSjjUk4_0zxcBfDg8iscuJXzs'
 const maxResults = 30
 
 //비동기 action creator로 유튜브로부터 데이터를 ajax통신으로 받아와서
